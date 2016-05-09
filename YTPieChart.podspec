@@ -20,10 +20,10 @@ Pod::Spec.new do |s|
   s.summary      = "A simple and  pieChart lib for iOS"
   s.homepage     = "https://github.com/OceanOver/YTPieChart"
   s.license      = "MIT"
-  s.author             = { "YT" => "http://oceanover.github.io/" }
+  s.author             = { "YT" => "https://oceanover.github.io/" }
   s.platform     = :ios, "7.0"
 
-  s.source       = { :git => "https://github.com:OceanOver/YTPieChart.git", :tag => "0.0.1" }
+  s.source       = { :git => "https://github.com/OceanOver/YTPieChart.git", :tag => "0.0.1" }
 
   s.source_files  = "YTPieChart/**/*.{h,m}"
   s.requires_arc = true
