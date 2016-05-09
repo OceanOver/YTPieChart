@@ -19,10 +19,12 @@ YTPieChart works on iOS 7.0+ and is compatible with ARC projects.
 
 ### Installation
 
-#### Manual
+* **Manual**
+
 Drag the YTPieChart folder into your project.
 
-#### Cocoapods
+* **Cocoapods**
+
 ```
 pod 'YTPieChart'
 ```
