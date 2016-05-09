@@ -23,9 +23,9 @@ Pod::Spec.new do |s|
   s.author             = { "YT" => "http://oceanover.github.io/" }
   s.platform     = :ios, "7.0"
 
-  s.source       = { :git => "git@github.com:OceanOver/YTPieChart.git", :tag => "0.0.1" }
+  s.source       = { :git => "https://github.com:OceanOver/YTPieChart.git", :tag => "0.0.1" }
 
-  s.source_files  = "./YTPieChart/*.{h,m}"
+  s.source_files  = "YTPieChart/**/*.{h,m}"
   s.requires_arc = true
 
 
