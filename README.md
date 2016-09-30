@@ -31,7 +31,7 @@ pod 'YTPieChart'
 
 ### Usage
 
-(smple in /Demo)
+(sample in /Demo)
 
 ```objc
 - (void)viewDidLoad {
